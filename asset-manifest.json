@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Readit/static/css/main.596461b9.css",
+    "main.js": "/Readit/static/js/main.ba367a6f.js",
+    "index.html": "/Readit/index.html",
+    "main.596461b9.css.map": "/Readit/static/css/main.596461b9.css.map",
+    "main.ba367a6f.js.map": "/Readit/static/js/main.ba367a6f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.596461b9.css",
+    "static/js/main.ba367a6f.js"
+  ]
+}
